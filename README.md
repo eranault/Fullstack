@@ -16,7 +16,7 @@ Pour lancer cette application, il faut exécuter les commandes suivantes dans le
 docker-compose build
 docker-compose up
 ```
-
+Une fois ces deux commandes lancées, on peut accéder au dashboard en tapant http://localhost:5000 dans le navigateur choisi. 
 
 
 ### Voici une petite aperçu de notre application: 
